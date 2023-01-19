@@ -28,7 +28,7 @@ FIRST Download
 userName: admin
 passWord: Watch Youtube Video ()
 
-Subcribe my You tube Channel **** https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw ****
+Subcribe my You tube Channel **** <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Subscribe</a> ****
 
 
 Author : MH RONY
