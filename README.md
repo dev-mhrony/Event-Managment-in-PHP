@@ -23,12 +23,12 @@ FIRST Download
 7. Run the script http://localhost/Event_Management_System
 
 
-**LOGIN DETAILS** 
-Admin
-user: admin
-pass: Watch Youtube Video ()
+## Admin LOGIN Info DETAILS
 
-Subcribe my You tube Channel **** 1 Source code ****
+userName: admin
+passWord: Watch Youtube Video ()
+
+Subcribe my You tube Channel **** https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw ****
 
 
 Author : MH RONY
