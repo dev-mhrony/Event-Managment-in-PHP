@@ -25,7 +25,7 @@ FIRST Download
 
 ## Admin LOGIN Info DETAILS
 
-userName: admin
+userName: admin <br />
 passWord: Watch Youtube Video ()
 
 Subcribe my You tube Channel **** <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Subscribe</a> ****
